@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.ProductDao"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.business.ProductManager"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.Logger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.entities.Product"/>
+</qualifiedTypeNameHistroy>

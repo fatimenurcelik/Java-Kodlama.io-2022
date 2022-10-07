@@ -1,0 +1,8 @@
+package oopWithNLayeredApp.core.logging;
+
+public class DatabaseLogger {
+	@Override
+	public void log(String data) implements Logger {
+		System.out.println("Veritabanina loglandi : " + data);
+	}
+}
