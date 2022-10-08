@@ -1,0 +1,13 @@
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.exe
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.deps.json
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.runtimeconfig.json
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.runtimeconfig.dev.json
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.dll
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\bin\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.pdb
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.csprojAssemblyReference.cache
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.AssemblyInfoInputs.cache
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.AssemblyInfo.cs
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.csproj.CoreCompileInputs.cache
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.dll
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.pdb
+C:\Java-Kamp-2022\oopUcuncuHaftaOdev\oopUcuncuHaftaOdev\obj\Debug\netcoreapp3.1\oopUcuncuHaftaOdev.genruntimeconfig.cache
