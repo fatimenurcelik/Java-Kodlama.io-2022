@@ -7,4 +7,12 @@
     <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.DatabaseLogger"/>
     <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.Logger"/>
     <fullyQualifiedTypeName name="oopWithNLayeredApp.entities.Product"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.TarımKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.OgrenciKrediManager"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculater"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomanGameCalculator"/>
 </qualifiedTypeNameHistroy>

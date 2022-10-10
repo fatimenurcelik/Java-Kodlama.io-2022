@@ -1,4 +1,3 @@
 INDEX VERSION 1.131+C:\Java-Kamp-2022\.metadata\.plugins\org.eclipse.jdt.core
-1710147411.index
-4027666482.index
-2322681716.index
+2959544807.index
+1353248687.index
