@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Java-Kamp-2022\.metadata\.plugins\org.eclipse.jdt.core
-2959544807.index
-1353248687.index
